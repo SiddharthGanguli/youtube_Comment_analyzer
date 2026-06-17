@@ -1,0 +1,5 @@
+outs:
+- md5: b73bead121d2dbfd7823b1d426695256
+  size: 6888931
+  hash: md5
+  path: redit-data.csv
